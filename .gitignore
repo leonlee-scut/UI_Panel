@@ -1,0 +1,40 @@
+### Altium ###
+# Previews Folders
+**/__Previews/
+
+# History Folders
+**/History/*
+
+# Project Logs
+Project Logs*/
+**/*.LOG
+
+# Project Outputs
+Project Outputs*/
+
+# Auto-conversion notices
+*.PcbDoc.htm
+
+# Access lock file for dbLib sources
+**/*.ldb
+
+# Backup Folders and Files
+**/Bak/*
+**/*.bak
+**/Copy of*
+*.WAS
+
+# LC EDA
+**/LCEDA/
+
+# CAM Folers and Files
+**/CAM/*
+**/*.Cam
+
+# Gerber Folder and Files
+# **/Gerber/*
+
+# Zip Files
+**/*.zip
+**/*.7z
+
